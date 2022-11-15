@@ -19,4 +19,4 @@ let ricardo = {
     }
 }
  
-ricardo.consumir(manzana);
+ricardo.consumir(manzana); 
